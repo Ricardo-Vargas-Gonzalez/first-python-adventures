@@ -21,7 +21,7 @@ elif edad > 100 :
 elif edad < 0 :
     print("no maa eres un homunculo")
 elif edad == 17 :
-    print("amo su inocencia..")
+    print("amo su inocencia")
 else : # recuerda que en else no se debe poner la variable pues ya la determina por defecto 
     print("Nel saquese, huele a carcel")
 
