@@ -12,7 +12,7 @@ else  : # Si no se cumple el If anterior, se pasa a esta linea
     print("felicidades te mamaste, ve por tu certificado de Azure") ##se ejecuta si ninguno de los IF se cumple
 
 # verificador de mayoría de edad
-edad = input("introduce tu edad: ")
+edad = input("introduce tu edad")
 edad = int(edad)
 if edad >= 18 and edad <= 100 :
     print("a huevo, ya eres explotable legalmente")
