@@ -7,6 +7,7 @@ En este curso aprenderás a programar en Python y Markdown Impartido por el Sher
 Recuerda que esto no es Brujería es Tecnología
 
 **requisitos**
+
 - Python 3.6 o superior
 - Computadora con Windows, Linux o MacOS
 - Editor de Texto como [Visual Estudio Code](https://code.visualstudio.com/)
