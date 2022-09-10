@@ -27,7 +27,19 @@ Partir una lista en pedazos
 
 - ':' Los dos puntos de usan para partir
 
+## Funciones en las listas
+
+- 'append()' Inserta un valor al final de la lista
+- 'insert()' Inserta un elemento en la posición que le digas. La posicion es por indices.
+- 'extend()' Agrega varios valores al final de la lista.
+- 'dell()' Eliminar uno o varios elementos de la lista por medio del slicing
+- 'remmove' Elimina un valor indicado. Elimina el primer valor que le hayas dado y que encuentre. Este no devuelve nada
+- 'pop' Extraer un elemento de la lista con el indice que le indiques
+- 'Clear' Eliminar todos los elementos de la lista
+
 - **Tuplas**
+
+similares a la lista. Permiten duplicar
 
 - **Colecciones**
 
